@@ -10,3 +10,6 @@ Happy New Year animated gift using GSAP and JavaScript
 * JavaScript
 
 ## Live link
+
+
+## screenshots
