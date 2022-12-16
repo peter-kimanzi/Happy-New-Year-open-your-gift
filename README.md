@@ -3,3 +3,5 @@
 Happy New Year animated gift using GSAP and JavaScript
 
 ## Technologies used
+
+* HTML
