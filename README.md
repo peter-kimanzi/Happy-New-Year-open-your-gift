@@ -8,3 +8,5 @@ Happy New Year animated gift using GSAP and JavaScript
 * CSS
 * GSAP
 * JavaScript
+
+## Live link
