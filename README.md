@@ -11,6 +11,8 @@ Happy New Year animated gift using GSAP and JavaScript
 
 ## Live link
 
+https://peter-kimanzi.github.io/Happy-New-Year-open-your-gift/
+
 
 ## screenshots
 
